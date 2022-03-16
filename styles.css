@@ -1,0 +1,11 @@
+foreignObject {
+	overflow: visible;
+}
+
+.mermaid {
+	height: 100%;
+}
+
+.mermaid > svg {
+	height: 100%;
+}

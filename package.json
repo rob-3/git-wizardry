@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@rob-3/mermaid": "^8.14.0",
+    "@slidev/cli": "^0.28.10",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*",
+    "mermaid": "^8.14.0"
+  },
+  "name": "git-wizardry"
+}
